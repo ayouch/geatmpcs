@@ -2,7 +2,7 @@ User-agent: Mediapartners-Google
 Disallow: 
 
 User-agent: *
-Disallow: /search
+Disallow: /oldindex.html
 Allow: /
 
 Sitemap: https://getecomads.com/sitemap.xml
